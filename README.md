@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi there! 👋 I'm Louis Weller, a automotive engineering Ph.D. student at the University of Stuttgart.
 
-<!--
-**LouisHWeller/LouisHWeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about mechanical engineering, software development, and data-driven solutions using machine learning techniques. I love working on projects that push the boundaries of innovation and efficiency especially for conevntional physical powertrain simulation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Mechanical Engineer and Data Scientist with a strong focus on leveraging the performance of pyhsical simulation models using artificial neural networks.
+
+📊 Enthusiast in automotive engineering, motorsports, data science, analytics, and big data technologies.
+
+🛠️ Experience with GT-Suite, Docker, InfluxDB and Tensorflow.
+
+🎯 Always learning new technologies and exploring ways to optimize performance.
+
+🛠️ Tech Stack
+
+Languages: Mostly Python
+
+Databases: InfluxDB
+
+DevOps: Docker
+
+📌 Featured Projects @[FKFS](https://www.fkfs.de/) and [IFS University of Stuttgart](https://www.ifs.uni-stuttgart.de/)
+
+🔹 Industry Projects – AI race strategy tool for General Motors Motorsports using Recurrent Neural Networks.
+
+🔹 Data Analysis Toolbox – Development of a automated data analysis toolbox and database for simulation, field and test-bench data for feature engineering and optimised data partitioning.
+
+🔹 Development Plattform EP4.0 (https://ep40.de/) – Development of digital twins of an automotive PEMFC powertrain using LSTM's.
+
+📫 Connect With Me
+
+💼 LinkedIn: Louis Weller
+
+🏗 GitHub: @LouisHWeller
+
+Let's collaborate and build something amazing! 🚀
+
