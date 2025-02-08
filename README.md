@@ -1,4 +1,4 @@
-Hi there! 👋 I'm **Louis Weller**, a automotive engineering Ph.D. student at the University of Stuttgart.
+Hi there! 👋 I'm **Louis Weller**, an automotive engineering Ph.D. student at the University of Stuttgart.
 
 Welcome to my GitHub profile! I'm passionate about mechanical engineering, software development, and data-driven solutions using machine learning techniques. I love working on projects that push the boundaries of innovation and efficiency especially for conevntional physical powertrain simulation.
 
