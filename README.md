@@ -26,11 +26,11 @@ DevOps: Docker
 
 🔹 Data Analysis Toolbox – Development of a automated data analysis toolbox and database for simulation, field and test-bench data for feature engineering and optimised data partitioning.
 
-🔹 Development Plattform EP4.0 (https://ep40.de/) – Development of digital twins of an automotive PEMFC powertrain using LSTM's.
+🔹 Development Plattform [EP4.0](https://ep40.de/) – Development of digital twins of an automotive PEMFC powertrain using LSTM's.
 
 📫 Connect With Me
 
-💼 LinkedIn: Louis Weller
+💼 LinkedIn: [Louis Weller](https://www.linkedin.com/in/louis-weller-327b341a3/)
 
 🏗 GitHub: @LouisHWeller
 
