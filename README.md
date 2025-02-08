@@ -36,7 +36,7 @@ DevOps: Docker
 
 💼 **LinkedIn**: [Louis Weller](https://www.linkedin.com/in/louis-weller-327b341a3/)
 
-🏗 **GitHub**: [LouisHWeller](https://github.com/LouisHWeller/LouisHWeller)
+🏗 **GitHub**: [LouisHWeller](https://github.com/LouisHWeller)
 
 Let's collaborate and build something amazing! 🚀
 
