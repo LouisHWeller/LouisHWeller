@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about mechanical engineering, softw
 
 📊 Enthusiast in automotive engineering, motorsports, data science, analytics, and big data technologies.
 
-🛠️ Experience with GT-Suite, Docker, InfluxDB and Tensorflow.
+🛠️ Experience with GT-Suite, Simulink, Docker, InfluxDB, Tensorflow...
 
 🎯 Always learning new technologies and exploring ways to optimize performance.
 
