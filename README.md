@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about mechanical engineering, softw
 
 🎯 Always learning new technologies and exploring ways to optimize performance.
 
-## 🛠️ Tech Stack
+## 🛠️ Coding Tech Stack
 
 Languages: Mostly Python
 
