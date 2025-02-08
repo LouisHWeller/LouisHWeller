@@ -20,7 +20,7 @@ Databases: InfluxDB
 
 DevOps: Docker
 
-## 📌 Projects @[FKFS](https://www.fkfs.de/) and [IFS University of Stuttgart](https://www.ifs.uni-stuttgart.de/)
+## 📌 Projects @ [FKFS](https://www.fkfs.de/) and [IFS University of Stuttgart](https://www.ifs.uni-stuttgart.de/)
 
 🔹 Industry Projects – AI race strategy tool for General Motors Motorsports using recurrent neural networks.
 
